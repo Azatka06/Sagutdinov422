@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name" translatable="false">Sagutdinov4-2-1hw</string>
+    <string name="start" translatable="false">Дата-время старта задачи:</string>
+    <string name="stop" translatable="false">Дата-время окончания задачи:</string>
+    <string name="money_enter" translatable="false">Ввод денег</string>
+    <string name="info_enter" translatable="false">Информация об оплате</string>
+    <string name="ok_button" translatable="false">OK</string>
+    <string name="card" translatable="false">С банковской карты</string>
+    <string name="mobile" translatable="false">С мобильного телефона</string>
+    <string name="cash" translatable="false">Наличными по адресу</string>
+    <string name="adres" translatable="false">Показать адрес</string>
+
+    <string name="tasks" translatable="false">Задачи</string>
+    <string name="pay" translatable="false">Оплата</string>
+    <string name="notes" translatable="false">Заметки</string>
+    <string name="spinner" translatable="false">Спиннер</string>
+
+    <string name="tasks_description" translatable="false">Назначение задач в календаре</string>
+    <string name="pay_description" translatable="false">Страница оплаты</string>
+    <string name="notes_decription" translatable="false">Приложение для создания заметок</string>
+    <string name="spinner_description" translatable="false">Выбор из списков</string>
+
+
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+</resources>
